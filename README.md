@@ -8,5 +8,8 @@ The site is locate in http://nodejs-hello.cloudfoundry.com which is powered by V
 Usage
 -----
 
-    $ npm bundle
+    - :'npm bundle' has been removed from 1.0.
+
+    $ npm install
     $ node app.js
+
