@@ -6,6 +6,9 @@
         "express":"",
         "jade":"",
         "stylus":"",
-        "coffee-script":""
+        "coffee-script":"",
+        "connect":"",
+        "qs":"",
+        "mime":""
     }
 }
